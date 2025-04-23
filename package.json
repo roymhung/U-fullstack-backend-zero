@@ -1,0 +1,27 @@
+{
+  "name": "u-fullstack-backend-zero",
+  "version": "1.0.0",
+  "description": "royhung fullstack-backend-zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roymhung/U-fullstack-backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "royhung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roymhung/U-fullstack-backend-zero/issues"
+  },
+  "homepage": "https://github.com/roymhung/U-fullstack-backend-zero#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
